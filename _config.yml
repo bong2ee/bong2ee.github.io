@@ -59,7 +59,7 @@ menu:
     url:               /spring/
   - title:             DB
     url:               /db/
-  - title:             About
+  - title:             ABOUT
     url:               /about/
 
 # Add links to the footer.
