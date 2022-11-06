@@ -54,7 +54,7 @@ menu:
   # - title:             Documentation
   #   url:               /docs/
   - title:             JAVA
-    url:               /java/
+    url:               /java/_post
   - title:             SPRING
     url:               /spring/
   - title:             DB
