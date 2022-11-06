@@ -29,7 +29,7 @@ description:           >
   봉이의 코딩 공부 & 일상 기록 블로그
 
 # A shorter description for the sidebar.
-tagline:               (*''*)
+tagline:               ෆ⸒⸒⸜( ˶'ᵕ'˶)⸝
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,10 +49,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  # - title:             Example
+  #   url:               /example/
+  # - title:             Documentation
+  #   url:               /docs/
+  - title:             JAVA
+    url:               /java/
+  - title:             SPRING
+    url:               /spring/
+  - title:             DB
+    url:               /db/
   - title:             About
     url:               /about/
 
