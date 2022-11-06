@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "컴퓨터구조 이해!"
 date:   2022-10-11 23:18:23 +0900
 categories: jekyll update
 ---
