@@ -59,6 +59,8 @@ menu:
     url:               /spring/
   - title:             DB
     url:               /db/
+  - title:             PYTHON, STATISTICS, ML
+    url:               /psm/
   # - title:             ABOUT
   #   url:               /about/
 
